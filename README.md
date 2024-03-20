@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Infocity**
+- 🔭 I’m currently working on **MERN Full stack**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Angular (MEAN)**
 
-- 💬 Ask me about **PHP and MySql**
+- 💬 Ask me about **Java and MySql**
 
 - 📫 How to reach me **kchandrakant354@gmail.com**
 
